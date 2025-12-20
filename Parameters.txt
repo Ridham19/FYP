@@ -1,0 +1,12 @@
+Population
+Virus
+Time
+is_known
+testing_start
+new_cases
+recovered
+dead
+lockdown
+mobility
+mobility_lag
+cure(vaccination)
